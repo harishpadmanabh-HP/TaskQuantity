@@ -43,6 +43,7 @@
         android:contentDescription="number"
         android:text="0"
         android:textSize="50dp"
+        android:textColor="#000"
         android:textAlignment="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
